@@ -33,6 +33,11 @@ switch (elec){
 	cout<<"El Total es:"<<total<< endl;
 	break;
 	
+ case 3 :
+		total=Numero1/Numero2 ;
+ cout<<"El Total es:"<<total<< endl;
+	break;
+	
 
 return 0;
 }
