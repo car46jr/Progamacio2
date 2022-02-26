@@ -33,7 +33,6 @@ switch (elec){
 	cout<<"El Total es:"<<total<< endl;
 	break;
 	
-		
 
 return 0;
 }
