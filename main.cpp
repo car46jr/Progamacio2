@@ -23,8 +23,12 @@ cout<<( "Ingrese Segundo Numero" )<<endl;
 cin>>(Numero2);
 
 
+switch (elec){
+	case  1 : 
+	total= Numero1+Numero2;
+	cout<<"El Total es:"<<total<< endl;
+	break;
 	
-
 return 0;
 }
 }
